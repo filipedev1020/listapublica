@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Filmes",Demo Filme
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="cbn" tvg-name="CBN São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CBN_logo.png" group-title="Rádio",CBN São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SP.mp3
 
-#EXTINF:-1 group-title="Filmes",Demo Filme 2
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="jovempan" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Jovem_Pan_logo.png" group-title="Rádio",Jovem Pan News
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac
 
-#EXTINF:-1 group-title="Séries",Demo Série S01E01
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="bandnews" tvg-name="BandNews FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo.png" group-title="Rádio",BandNews FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM.mp3
 
-#EXTINF:-1 group-title="Séries",Demo Série S01E02
-https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="antena1" tvg-name="Antena 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Antena1_logo.png" group-title="Rádio",Antena 1
+https://stream.antena1.com.br/stream/antena1.mp3
